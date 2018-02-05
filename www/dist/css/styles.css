@@ -29,18 +29,24 @@ nav {
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 3px 4px 0 rgba(0,0,0,.14), 0 3px 3px -2px rgba(0,0,0,.2), 0 1px 8px 0 rgba(0,0,0,.12);
+  box-shadow: 0 3px 4px 0 rgba(0, 0, 0, .14), 0 3px 3px -2px rgba(0, 0, 0, .2), 0 1px 8px 0 rgba(0, 0, 0, .12);
 }
 
 main {
+  margin-top: 5vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
   display: flex;
   flex-direction: row;
-  justify-content: center;
   align-items: center;
 }
 
 .app-engine {
-margin-right: .5rem;
-float: left;
-height: 2.5rem;
+  margin-right: .5rem;
+  float: left;
+  height: 2.5rem;
 }
