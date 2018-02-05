@@ -1,6 +1,9 @@
 # Google Cloud Platform - App Engine Static Website Hosting Starter Kit
 This repo provides a basic set of files and instructions to deploy a static website to Google Cloud Platform's App Engine. 
 
+## Demo Site on App Engine
+https://static-sites-demo.appspot.com/
+
 ## Why?
 When deciding where to host a static website, there are a couple different options:
 1. Shared hosting providers (Dreamhost, GoDaddy, 1and1, etc)
